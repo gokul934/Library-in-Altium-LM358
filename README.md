@@ -99,6 +99,10 @@ To create a **schematic symbol and PCB footprint library for the LM358 dual oper
 7. Perform a final **ERC/DRC check** after integrating the component into a PCB project.
 
 ## Screenshots
+<img width="1918" height="1198" alt="Screenshot 2026-08-17 145624" src="https://github.com/user-attachments/assets/23444d1f-dde4-432c-8bf3-37d2fef60a85" />
+<img width="1913" height="1198" alt="Screenshot 2026-08-17 145648" src="https://github.com/user-attachments/assets/97ce4c21-8f1e-4a41-b81e-03ca0dafb873" />
+
+
 
 
 
